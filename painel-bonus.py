@@ -18,7 +18,7 @@ salario_base = float(input("Digite o salário base (use ponto, ex: 1500.50): "))
 bonus = salario_base * 0.15
 
 # Cálculo do salário total do primeiro mês
-salario_total = salario_base + bonusECH")
+salario_total = salario_base + bonus
 print("=" * 45)
 
 print(f"Funcionário:       {nome}")
